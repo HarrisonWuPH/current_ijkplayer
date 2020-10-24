@@ -1,3 +1,5 @@
+从Ijkplayer项目中分出来方便自己使用
+
 # ijkplayer
 
  Platform | Build Status
